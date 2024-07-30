@@ -1,3 +1,4 @@
+package hw_1;
 public class DisplayText {
     public static void main(String[] args) {
         System.out.println("Wilasinee"+"Janthanasot");
